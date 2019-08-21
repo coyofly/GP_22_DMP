@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/coyofly/GP_22_DMP.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mk54340254/GP_22_DMP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
